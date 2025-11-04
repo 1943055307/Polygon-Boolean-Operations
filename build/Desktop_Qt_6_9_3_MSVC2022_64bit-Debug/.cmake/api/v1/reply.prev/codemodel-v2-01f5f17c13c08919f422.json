@@ -1,0 +1,79 @@
+{
+	"configurations" : 
+	[
+		{
+			"directories" : 
+			[
+				{
+					"build" : ".",
+					"hasInstallRule" : true,
+					"jsonFile" : "directory-.-Debug-3d386155f2d6534c66ad.json",
+					"minimumCMakeVersion" : 
+					{
+						"string" : "3.15"
+					},
+					"projectIndex" : 0,
+					"source" : ".",
+					"targetIndexes" : 
+					[
+						0,
+						1,
+						2
+					]
+				}
+			],
+			"name" : "Debug",
+			"projects" : 
+			[
+				{
+					"directoryIndexes" : 
+					[
+						0
+					],
+					"name" : "bool",
+					"targetIndexes" : 
+					[
+						0,
+						1,
+						2
+					]
+				}
+			],
+			"targets" : 
+			[
+				{
+					"directoryIndex" : 0,
+					"id" : "bool::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-bool-Debug-42d49413500b097770ad.json",
+					"name" : "bool",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "bool_autogen::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-bool_autogen-Debug-96880e32e3c878ca4d63.json",
+					"name" : "bool_autogen",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "bool_autogen_timestamp_deps::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-bool_autogen_timestamp_deps-Debug-b07111e3f51d62d7f8c4.json",
+					"name" : "bool_autogen_timestamp_deps",
+					"projectIndex" : 0
+				}
+			]
+		}
+	],
+	"kind" : "codemodel",
+	"paths" : 
+	{
+		"build" : "E:/Doctor/class/fir/fall/cad/final/bool/build/Desktop_Qt_6_9_3_MSVC2022_64bit-Debug",
+		"source" : "E:/Doctor/class/fir/fall/cad/final/bool"
+	},
+	"version" : 
+	{
+		"major" : 2,
+		"minor" : 7
+	}
+}

@@ -1,4 +1,0 @@
-E:/Doctor/class/fir/fall/cad/final/bool/build/CMakeFiles/bool.dir
-E:/Doctor/class/fir/fall/cad/final/bool/build/CMakeFiles/INSTALL.dir
-E:/Doctor/class/fir/fall/cad/final/bool/build/CMakeFiles/ALL_BUILD.dir
-E:/Doctor/class/fir/fall/cad/final/bool/build/CMakeFiles/ZERO_CHECK.dir

@@ -1,0 +1,25 @@
+# ninja log v6
+14	432	7839280315919389	bool_autogen/timestamp	63dc36ce33650694
+14	432	7839280315919389	bool_autogen/mocs_compilation.cpp	63dc36ce33650694
+14	432	7839280315919389	E:/Doctor/class/fir/fall/cad/final/bool/build/Desktop_Qt_6_9_3_MSVC2022_64bit-Release/bool_autogen/timestamp	63dc36ce33650694
+14	432	7839280315919389	E:/Doctor/class/fir/fall/cad/final/bool/build/Desktop_Qt_6_9_3_MSVC2022_64bit-Release/bool_autogen/mocs_compilation.cpp	63dc36ce33650694
+451	2242	7839280316668545	CMakeFiles/bool.dir/booleanops.cpp.obj	1b2aa81902c1e79d
+448	2309	7839280316648547	CMakeFiles/bool.dir/geometrymodel.cpp.obj	6ef0d99b79e5b1c0
+443	3311	7839280316593409	CMakeFiles/bool.dir/inputpolygon.cpp.obj	499579c779d7daee
+446	3345	7839280316618534	CMakeFiles/bool.dir/canvas2d.cpp.obj	3a530b85936ba3bd
+435	3365	7839280316513460	CMakeFiles/bool.dir/bool_autogen/mocs_compilation.cpp.obj	f27a2c84b7d25dda
+438	3526	7839280316543257	CMakeFiles/bool.dir/main.cpp.obj	61d35afa14c2ff67
+441	3637	7839280316573268	CMakeFiles/bool.dir/mainwindow.cpp.obj	31ee6f6f3d12599e
+3637	3798	7839280348529287	bool.exe	d45c5414622b0fb7
+170	2146	7839395249077772	bool_autogen/timestamp	63dc36ce33650694
+170	2146	7839395249077772	bool_autogen/mocs_compilation.cpp	63dc36ce33650694
+170	2146	7839395249077772	E:/Doctor/class/fir/fall/cad/final/bool/build/Desktop_Qt_6_9_3_MSVC2022_64bit-Release/bool_autogen/timestamp	63dc36ce33650694
+170	2146	7839395249077772	E:/Doctor/class/fir/fall/cad/final/bool/build/Desktop_Qt_6_9_3_MSVC2022_64bit-Release/bool_autogen/mocs_compilation.cpp	63dc36ce33650694
+2549	7612	7839395254595787	CMakeFiles/bool.dir/booleanops.cpp.obj	1b2aa81902c1e79d
+2541	7680	7839395254505407	CMakeFiles/bool.dir/geometrymodel.cpp.obj	6ef0d99b79e5b1c0
+2149	8691	7839395250586645	CMakeFiles/bool.dir/bool_autogen/mocs_compilation.cpp.obj	f27a2c84b7d25dda
+2531	8842	7839395254424215	CMakeFiles/bool.dir/canvas2d.cpp.obj	3a530b85936ba3bd
+2521	8890	7839395254317051	CMakeFiles/bool.dir/inputpolygon.cpp.obj	499579c779d7daee
+2502	9125	7839395254116660	CMakeFiles/bool.dir/main.cpp.obj	61d35afa14c2ff67
+2513	9477	7839395254231892	CMakeFiles/bool.dir/mainwindow.cpp.obj	31ee6f6f3d12599e
+9478	10821	7839395323879194	bool.exe	d45c5414622b0fb7

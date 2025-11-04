@@ -1,0 +1,79 @@
+{
+	"configurations" : 
+	[
+		{
+			"directories" : 
+			[
+				{
+					"build" : ".",
+					"hasInstallRule" : true,
+					"jsonFile" : "directory-.-Release-5b81152cfb493a5f4df6.json",
+					"minimumCMakeVersion" : 
+					{
+						"string" : "3.16"
+					},
+					"projectIndex" : 0,
+					"source" : ".",
+					"targetIndexes" : 
+					[
+						0,
+						1,
+						2
+					]
+				}
+			],
+			"name" : "Release",
+			"projects" : 
+			[
+				{
+					"directoryIndexes" : 
+					[
+						0
+					],
+					"name" : "bool",
+					"targetIndexes" : 
+					[
+						0,
+						1,
+						2
+					]
+				}
+			],
+			"targets" : 
+			[
+				{
+					"directoryIndex" : 0,
+					"id" : "bool::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-bool-Release-ae172bde63737b8cfead.json",
+					"name" : "bool",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "bool_autogen::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-bool_autogen-Release-bfdfed1e48e829e4c7ce.json",
+					"name" : "bool_autogen",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "bool_autogen_timestamp_deps::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-bool_autogen_timestamp_deps-Release-b07111e3f51d62d7f8c4.json",
+					"name" : "bool_autogen_timestamp_deps",
+					"projectIndex" : 0
+				}
+			]
+		}
+	],
+	"kind" : "codemodel",
+	"paths" : 
+	{
+		"build" : "E:/Doctor/class/fir/fall/cad/final/bool/build/Desktop_Qt_6_9_3_MSVC2022_64bit-Release",
+		"source" : "E:/Doctor/class/fir/fall/cad/final/bool"
+	},
+	"version" : 
+	{
+		"major" : 2,
+		"minor" : 7
+	}
+}
